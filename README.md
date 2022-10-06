@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47k32h0grixa9v0cyd3phu0rx83tmf0arkijdvvvrz&rid=giphy.gif&ct=g" width="200"/>
   <p><b>I come from Canada / Quebec I learned development with FiveM I thought it was super cool soo yeah!<b></p><br/>
-  <p><b>(Front end + Lua)<b></p>
+  <p><b>(Front end Dev)<b></p>
 </div>
 
 
