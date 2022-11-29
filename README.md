@@ -1,6 +1,6 @@
 ### 🧰 ┊ About Me 
 
-<div id="header" align="center">
+<div id="header" align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47k32h0grixa9v0cyd3phu0rx83tmf0arkijdvvvrz&rid=giphy.gif&ct=g" width="200"/>
   <p><b>I come from Canada / Quebec I learned development with FiveM I thought it was super cool soo yeah!<b></p><br/>
   <p><b>(Front end Dev)<b></p>
@@ -13,7 +13,7 @@
 
 
 ### 🧰 ┊ Languages
-<div>
+<div style="display: flex; align-items: center; justify-content: center;">
   <hr>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@
 
 
 ### :fire:┊ My Stats :
-<div>
+<div >
   <hr>
 </div>
 
@@ -44,7 +44,7 @@
 
 
 ### 💻 ┊ My projects
-<div>
+<div style="display: flex; align-items: center; justify-content: center;">
   <hr>
   <h1>&lt/INSPECT • Laboratory></h1>
   <p>Inspect is a development community that sells/releases scripts</p>
